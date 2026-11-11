@@ -1,8 +1,26 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Un-Textbook Algebra 1
+description: Part of the "Untextbook" Math series, a collection of high school-level math resources meant to be written at (hopefully) a casual level. No promises :)
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://dazhang001.github.io/untextbook-math-algebra1/
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+aux_links: # space for navbar links
+
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+  reflect:
+    title: Reflect
+    color: green
